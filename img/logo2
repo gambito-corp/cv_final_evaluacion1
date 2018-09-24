@@ -1,0 +1,13 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <circle cx="252.99999" cy="203.99999" fill="#333333" id="svg_1" r="198.58234" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <circle cx="253" cy="203" fill="#333333" id="svg_2" r="171.53198" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <rect fill="#ff0000" height="109.77922" id="svg_6" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" width="214" x="146.5" y="96.72078"/>
+  <path d="m234.14751,245.46253l7.31251,-39.00003l24.37502,0l7.3125,39.00003l-39.00003,0z" fill="#ff0000" id="svg_12" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <rect fill="#ff0000" height="45.42857" id="svg_13" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" width="212.00001" x="148.5" y="255.07143"/>
+  <path d="m329.5,255.5c0,-1 -0.12387,-1.81554 0.05716,-2.75717c0.17725,-0.92183 0.76392,-1.48763 0.94284,-2.52817c0.13806,-0.80289 0,-1.71466 0,-2.51466c0,-0.89999 0,-1.8 0,-2.7c0,-0.89999 0,-1.8 0,-2.7c0,-0.90001 0,-1.8 0,-2.60001c0,-0.89999 0.00528,-1.80002 0,-2.7c-0.00534,-0.91071 -0.22833,-1.81851 -0.5,-2.5c-0.38852,-0.97456 -0.42587,-1.80482 -0.53601,-2.672c-0.11215,-0.88312 -0.36343,-1.59291 -0.66849,-2.32266c-0.44223,-1.05791 -1.0343,-1.79413 -1.32083,-2.64134c-0.28418,-0.84021 -0.55939,-1.55504 -1.07449,-2.34267c-0.51749,-0.79129 -0.78644,-1.68605 -0.95285,-2.36867c-0.22403,-0.91893 -1.03494,-1.58098 -1.51132,-2.25267c-0.52853,-0.74521 -0.7439,-1.58792 -1.29733,-2.22533c-0.46964,-0.54086 -1.37979,-1.1956 -1.85202,-1.97333c-0.44629,-0.73505 -0.71933,-1.59686 -1.20264,-2.40001c-0.44806,-0.74457 -1.39581,-0.99422 -1.79868,-1.60266c-0.54388,-0.82144 -1.11868,-1.36534 -1.28534,-2.19867l-0.2215,-0.87866" fill="none" id="svg_16" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <text fill="#ffffff" font-family="serif" font-size="24" id="svg_18" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="254.5" xml:space="preserve" y="159.5">&lt;Gambito Code/&gt;</text>
+ </g>
+</svg>
